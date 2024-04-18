@@ -8,7 +8,7 @@ main:
     arxiv: https://arxiv.org/abs/2203.07976
     code: https://gitlab.com/nct_tso_public/pitfalls_bn
     graphicalabstract: ./assets/files/graphicalabstract_pitfalls_bn.pdf
-    notes: Journal ranked <a style="color:#e74d3c" href="https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition" target="_blank">8th in Computer Vision</a>, IF 10.9
+    notes: Journal ranked <u><a style="color:#e74d3c" href="https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition" target="_blank">8th in Computer Vision</a></u>, IF 10.9
     image: ./assets/img/2022_bn.png
 
   - title: "Long-term Temporally Consistent Unpaired Video Translation from Simulated Surgical 3D Data"
@@ -30,3 +30,22 @@ main:
     arxiv: https://arxiv.org/abs/2007.00548
     code: https://gitlab.com/nct_tso_public/ins_ant
     image: ./assets/img/2020_miccai.png
+
+  - title: "Unsupervised Temporal Video Segmentation as an Auxiliary Task for Predicting the Remaining Surgery Duration"
+    authors: <strong>Dominik Rivoir</strong>, Sebastian Bodenstedt, Felix von Bechtolsheim, Marius Distler, Jürgen Weitz, Stefanie Speidel
+    conference_short: MICCAI-W
+    conference: MICCAI Workshop "OR 2.0 Context-Aware Operating Theaters and Machine Learning in Clinical Neuroimaging", 2019
+    publication: https://link.springer.com/chapter/10.1007/978-3-030-32695-1_4
+    arxiv: https://arxiv.org/abs/2002.11367
+    notes: Best Paper
+    image: ./assets/img/2019_miccai.png
+
+  - title: "Active Learning using Deep Bayesian Networks for Surgical Workflow Analysis"
+    authors: Sebastian Bodenstedt, <strong>Dominik Rivoir</strong>, Alexander Jenke, Martin Wagner, Michael Breucha, Beat Müller-Stich, Sören Torge Mees, Jürgen Weitz, Stefanie Speidel 
+    conference_short: IPCAI
+    conference: MICCAI Workshop "OR 2.0 Context-Aware Operating Theaters and Machine Learning in Clinical Neuroimaging", 2019
+    publication: https://link.springer.com/chapter/10.1007/978-3-030-32695-1_4
+    arxiv: https://arxiv.org/abs/1811.03382
+    notes: Best Paper (as 2nd author)
+    image: ./assets/img/2019_ipcai.png
+
