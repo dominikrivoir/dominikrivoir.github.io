@@ -18,10 +18,12 @@ My research is located in Video Understanding as well as Neural Rendering for Su
 - **[Jan 2024]** I am co-organizing the 1st Workshop on [Data Curation & Augmentation in Medical Imaging](https://dca-in-mi.github.io/) @ CVPR 2024 in Seattle.
 - **[Oct 2023]** I finished [2nd place](https://twitter.com/TSO_Lab/status/1711095656134197576) in [EndoVis' PitVis challenge](https://opencas.dkfz.de/endovis/challenges/2023/) at MICCAI 2023.
 - **[Sep 2023]** I co-organized the 1st SECAI CeTI Summer School on [AI Applications for Medicine](https://www.secai-ceti-summerschool.de/).
-- **[Nov '21]** [RSIP Vision](https://www.rsipvision.com/)'s _Computer Vision News_ magazine featured our work in their [BEST OF ICCV](https://www.rsipvision.com/ComputerVisionNews-2021November/24/) selection.
+- **[Nov 2021]** [RSIP Vision](https://www.rsipvision.com/)'s _Computer Vision News_ magazine featured our work in their [BEST OF ICCV](https://www.rsipvision.com/ComputerVisionNews-2021November/24/) selection.
 
 {% include_relative _includes/awards.md %}
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/organizing.md %}
 
 {% include_relative _includes/reviewing.md %}
