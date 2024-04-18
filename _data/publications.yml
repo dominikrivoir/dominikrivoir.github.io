@@ -38,13 +38,13 @@ main:
     publication: https://link.springer.com/chapter/10.1007/978-3-030-32695-1_4
     arxiv: https://arxiv.org/abs/2002.11367
     notes: Best Paper
-    image: ./assets/img/2019_miccai.png
+    image: ./assets/img/2019_miccai_w.png
 
   - title: "Active Learning using Deep Bayesian Networks for Surgical Workflow Analysis"
     authors: Sebastian Bodenstedt, <strong>Dominik Rivoir</strong>, Alexander Jenke, Martin Wagner, Michael Breucha, Beat Müller-Stich, Sören Torge Mees, Jürgen Weitz, Stefanie Speidel 
     conference_short: IPCAI
-    conference: MICCAI Workshop "OR 2.0 Context-Aware Operating Theaters and Machine Learning in Clinical Neuroimaging", 2019
-    publication: https://link.springer.com/chapter/10.1007/978-3-030-32695-1_4
+    conference: International Journal of Computer Assisted Radiology and Surgery <strong>(IPCAI)</strong>, 2019
+    publication: https://link.springer.com/article/10.1007/s11548-019-01963-9
     arxiv: https://arxiv.org/abs/1811.03382
     notes: Best Paper (as 2nd author)
     image: ./assets/img/2019_ipcai.png
