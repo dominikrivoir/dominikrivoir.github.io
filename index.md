@@ -20,6 +20,8 @@ My research is located in Video Understanding as well as Neural Rendering for Su
 - **[Sep 2023]** I co-organized the 1st SECAI CeTI Summer School on [AI Applications for Medicine](https://www.secai-ceti-summerschool.de/).
 - **[Nov '21]** [RSIP Vision](https://www.rsipvision.com/)'s _Computer Vision News_ magazine featured our work in their [BEST OF ICCV](https://www.rsipvision.com/ComputerVisionNews-2021November/24/) selection.
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/reviewing.md %}
