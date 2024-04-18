@@ -16,7 +16,17 @@ main:
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021
     publication: https://openaccess.thecvf.com/content/ICCV2021/html/Rivoir_Long-Term_Temporally_Consistent_Unpaired_Video_Translation_From_Simulated_Surgical_3D_ICCV_2021_paper.html
+    arxiv: https://arxiv.org/abs/2103.17204
     page: https://opencas.dkfz.de/video-sim2real/
     code: https://gitlab.com/nct_tso_public/surgical-video-sim2real
     newsarticle: https://www.rsipvision.com/ComputerVisionNews-2021November/24/
-    image: ./assets/img/2021_iccv.mp4
+    image: ./assets/img/2021_iccv.png
+
+  - title: "Rethinking Anticipation Tasks: Uncertainty-Aware Anticipation of Sparse Surgical Instrument Usage for Context-Aware Assistance"
+    authors: <strong>Dominik Rivoir</strong>, Sebastian Bodenstedt, Isabel Funke, Felix von Bechtolsheim, Marius Distler, Jürgen Weitz, Stefanie Speidel 
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2020
+    publication: https://link.springer.com/chapter/10.1007/978-3-030-59716-0_72
+    arxiv: https://arxiv.org/abs/2007.00548
+    code: https://gitlab.com/nct_tso_public/ins_ant
+    image: ./assets/img/2020_miccai.png
