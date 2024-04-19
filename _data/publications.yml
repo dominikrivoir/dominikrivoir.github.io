@@ -8,7 +8,7 @@ main:
     arxiv: https://arxiv.org/abs/2203.07976
     code: https://gitlab.com/nct_tso_public/pitfalls_bn
     graphicalabstract: ./assets/files/graphicalabstract_pitfalls_bn.pdf
-    notes: Journal ranked <u><a style="color:#e74d3c" href="https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition" target="_blank">8th in Computer Vision</a></u>, IF 10.9
+    notes: Journal IF 10.9, <u><a style="color:#e74d3c" href="https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition" target="_blank">hghly ranked</a></u> among CV venues
     image: ./assets/img/2022_bn.png
 
   - title: "Long-term Temporally Consistent Unpaired Video Translation from Simulated Surgical 3D Data"
