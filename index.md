@@ -15,6 +15,7 @@ My research is located in Video Understanding as well as Neural Rendering for Su
 
 ## News
 
+- **[May 2024]** Our CVPR Workshop DCAMI was featured in [Computer Vision News](https://www.rsipvision.com/ComputerVisionNews-2024May/42/)!
 - **[Jan 2024]** I am co-organizing the 1st Workshop on [Data Curation & Augmentation in Medical Imaging](https://dca-in-mi.github.io/) @ CVPR 2024 in Seattle.
 - **[Oct 2023]** I finished [2nd place](https://twitter.com/TSO_Lab/status/1711095656134197576) in [EndoVis' PitVis challenge](https://opencas.dkfz.de/endovis/challenges/2023/) at MICCAI 2023.
 - **[Sep 2023]** I co-organized the 1st SECAI CeTI Summer School on [AI Applications for Medicine](https://www.secai-ceti-summerschool.de/).
