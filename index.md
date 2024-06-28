@@ -23,8 +23,8 @@ My research is located in Video Understanding as well as Neural Rendering for Su
 
 {% include_relative _includes/awards.md %}
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/organizing.md %}
+
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/reviewing.md %}
