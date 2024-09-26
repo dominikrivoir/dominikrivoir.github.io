@@ -1,5 +1,6 @@
 ## Awards
 
+- **[Oustanding Reviewer Award](https://eccv.ecva.net/Conferences/2024/Reviewers)**<br>@ ECCV 2024<br>_(ca. Top 2%)_
 - **[Oustanding Reviewer Award](https://conferences.miccai.org/2022/en/OUTSTANDING-REVIEWER-AWARDS.html)**<br>@ MICCAI 2022<br>_(Top 1%, 12/1242 reviewers awarded)_
 - **[Best Reviewer Award](https://sites.google.com/view/ipcai2022/awards#h.xdb2xvlvj4ni)**<br>@ IPCAI 2022<br>_(Top 2%, 2/>100 reviewers awarded)_
 - **[Best Paper Award](https://twitter.com/SpeidelStefanie/status/1183310832580481024)**<br>@ MICCAI Workshop "OR 2.0" 2019
