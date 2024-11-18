@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I an Applied Scientist at Amaon in Berlin. Before that I was a PhD student under the supervision of Prof. Stefanie Speidel at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/forschung/departments-and-groups/department-for-translational-surgical-oncology.html) and the [Centre for Tactile Internet (CeTI)](https://ceti.one/) of TU Dresden, Germany.
+I am an Applied Scientist at Amazon in Berlin. Before that, I was a PhD student under the supervision of Prof. Stefanie Speidel at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/forschung/departments-and-groups/department-for-translational-surgical-oncology.html) and the [Centre for Tactile Internet (CeTI)](https://ceti.one/) of TU Dresden, Germany.
 
 My PhD research is located in Video Understanding as well as Neural Rendering for Surgical Computer Vision applications. I am interested in the intersection of academic and application-driven research and aim to identify gaps between common Computer Vision methods and surgical applications.
 
