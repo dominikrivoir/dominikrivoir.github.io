@@ -1,8 +1,8 @@
 # Basic Information 
 title: Dominik Rivoir
-position: Ph.D. Student
-affiliation: NCT Dresden & CeTI, TU Dresden, Germany
-email: dominik.rivoir (at) nct-dresden.de
+position: Applied Scientist
+affiliation: Amazon
+# email: dominik.rivoir (at) nct-dresden.de
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -13,7 +13,7 @@ canonical: https://dominikrivoir.github.io/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.de/citations?user=MBADUf0AAAAJ&hl=de
-cv_link: assets/files/CV_DominikRivoir.pdf
+# cv_link: assets/files/CV_DominikRivoir.pdf
 github_link: https://gitlab.com/users/dmri/contributed
 linkedin: https://www.linkedin.com/in/dominik-rivoir-542764200/
 twitter: https://twitter.com/DominikRivoir
