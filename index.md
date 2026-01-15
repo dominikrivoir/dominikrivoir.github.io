@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am an Applied Scientist at Amazon in Berlin. Before that, I was a PhD student under the supervision of Prof. Stefanie Speidel at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/forschung/departments-and-groups/department-for-translational-surgical-oncology.html) and the [Centre for Tactile Internet (CeTI)](https://ceti.one/) of TU Dresden, Germany.
+I am an Applied Scientist at Amazon in Berlin. Before that, I completed my PhD under the supervision of Prof. Stefanie Speidel at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/forschung/departments-and-groups/department-for-translational-surgical-oncology.html) and the [Centre for Tactile Internet (CeTI)](https://ceti.one/) of TU Dresden, Germany.
 
-My PhD research is located in Video Understanding as well as Neural Rendering for Surgical Computer Vision applications. I am interested in the intersection of academic and application-driven research and aim to identify gaps between common Computer Vision methods and surgical applications.
+My PhD research was focused on Video Understanding as well as Neural Rendering for Surgical Computer Vision applications. I am interested in the intersection of academic and application-driven research and aim to identify gaps between common Computer Vision methods and surgical applications.
 
 ## Research Interests
 
@@ -15,6 +15,7 @@ My PhD research is located in Video Understanding as well as Neural Rendering fo
 
 ## News
 
+- **[May 2025]** I have successfully defended my PhD!
 - **[Dec 2024]** I have started a new position as Applied Scientist at Amazon in Berlin!
 - **[Oct 2024]** I have submitted my doctoral thesis at TU Dresden and NCT Dresden. Thank you to my supervisor Prof. Stefanie Speidel!
 - **[May 2024]** Our CVPR Workshop DCAMI was featured in [Computer Vision News](https://www.rsipvision.com/ComputerVisionNews-2024May/42/)!
